@@ -35,7 +35,7 @@ janela = Tk()   # Criei uma janela (página de cadastro.)
 janela.title('Página de Cadastro')
 janela.geometry("400x400")
 
-texto_descricao = Label(janela, text='Decrição de todos os produtos')
+texto_descricao = Label(janela, text='Cadastrar novo produto')
 texto_descricao.grid(column=0, row=1, padx=10, pady=10, sticky='nswe', columnspan=4)
 
 combobox_selecionar_produto = tkinter.ttk.Combobox(values=lista_produtos)
