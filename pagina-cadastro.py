@@ -7,7 +7,7 @@ lista_produtos = ['Arroz','Feijão','Macarrão','Farinha Branca','Farinha Dágua
                   'Leite Integral','Carne de Gado','Peito de Frango','Carne Porco','Manteiga','Sal','Óleo',
                   'Azeite','Farinha de Trigo','Pão','Biscoito','Danone']
 
-lista_tipos = ['Caixa','Unidade','Saco','Galão','Peso-1kg','Peso-500g']
+lista_tipos = ['Caixa','Unidade','Saco','Galão','Peso-1kg','Peso-500g','Peso-100g']
 
 lista_unidade = ['1','2','3','4','5','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22',
                  '23','24','25','26','27','28','29','30']
